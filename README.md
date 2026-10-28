@@ -1,5 +1,9 @@
 # 银行客户流失预测：四模型对比
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-3DA639) ![Domain](https://img.shields.io/badge/Domain-机器学习%20·%20不平衡分类-2f5de3)
+
+**[在线作品集](https://mason2119.github.io)** ｜ [更多项目](https://github.com/mason2119)
+
 > 在 **20.37% 流失率**的不平衡数据上，对比决策树、神经网络、随机森林、K 近邻四种算法。
 > 这个项目真正想说明的不是「哪个模型最准」，而是 **「87% 的准确率为什么可能是坏消息」**。
 >
